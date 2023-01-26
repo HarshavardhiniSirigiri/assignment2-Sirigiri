@@ -12,3 +12,8 @@ Badminton is a fun, active sport which is an easy game to practice with few pain
     1.Harsha
     2.Arun
     3.Tanisha
+
+* RED TEAM
+    * Lokesh
+    * Phani
+    * Yogesh
