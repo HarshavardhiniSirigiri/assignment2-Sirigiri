@@ -16,3 +16,5 @@ Badminton is a fun, active sport which is an easy game to practice with few pain
 * RED TEAM
 * BLACK TEAM
 
+lets go to the AboutMe link.
+[Please](https://github.com/HarshavardhiniSirigiri/assignment2-Sirigiri/blob/main/AboutMe.md)
