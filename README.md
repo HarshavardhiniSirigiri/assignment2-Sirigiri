@@ -27,3 +27,7 @@ In this table, we will be showing the different countries and reason of visit an
 | US         | Money           | 2months   |
 | UK         | Turism          | 1month    |
 |Switzerland | Climate         | 1month    |
+-----
+# PITHY QUOTES
+>“I have only made this letter longer because I have not had the time to make it shorter." - ***Blaise Pascal***
+>“The best kind of praise is intelligent praise.” - ***Rachel Heffington***
