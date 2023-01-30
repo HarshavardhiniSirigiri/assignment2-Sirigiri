@@ -14,6 +14,5 @@ Badminton is a fun, active sport which is an easy game to practice with few pain
     3. Tanisha
 
 * RED TEAM
-    * Lokesh
-    * Phani
-    * Yogesh
+* BLACK TEAM
+
