@@ -20,8 +20,10 @@ lets go to the AboutMe link.
 [Please](https://github.com/HarshavardhiniSirigiri/assignment2-Sirigiri/blob/main/AboutMe.md)
 ----
 # TABLES CREATION
-| Country | Reason for Visit| No of Days|
-|---------| ----------------| ----------|
-| India   | Culture         | 2months   |
-| US      | Money           | 2months   |
-| UK      | Turism          | 1month    |
+In this table, we will be showing the different countries and reason of visit and plan to visit those countries.
+| Country    | Reason for Visit| No of Days|
+|---------   | ----------------| ----------|
+| India      | Culture         | 2months   |
+| US         | Money           | 2months   |
+| UK         | Turism          | 1month    |
+|Switzerland | Climate         | 1month    |
