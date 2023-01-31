@@ -31,20 +31,16 @@ In this table, we will be showing the different countries and reason of visit an
 # PITHY QUOTES
 >“I have only made this letter longer because I have not had the time to make it shorter." - ***Blaise Pascal*** <br>
 >“The best kind of praise is intelligent praise.” - ***Rachel Heffington*** 
-# CODE FENCING
->How to create a Minimal, Reproducible Example?
-Lets go to the link
-[Click Here](https://stackoverflow.com/help/minimal-reproducible-example)
+# CODE FENCING- MULTIPLE FILE INPUT
+>How to select multiple files with <input type="file">?
+Lets go to the article link
+[Click Here](https://stackoverflow.com/questions/1593225/how-to-select-multiple-files-with-input-type-file)
 ```
-<html>
-<head>
-<title> My S.Id</title>
-</head>
-<body>
-<center><font color="red"> S561750</font></center>
-</body>
-</html>
+<form method="post" action="upload.php" enctype="multipart/form-data">
+  <input name='uploads[]' type="file" multiple>
+  <input type="submit" value="Send">
+</form>
 
 ```
-Lets go to the link
-[Please](https://css-tricks.com/snippets/html)
+Lets go to the snippet source link
+[Link](https://css-tricks.com/snippets/html/multiple-file-input/)
