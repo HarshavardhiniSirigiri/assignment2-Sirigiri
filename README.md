@@ -29,5 +29,17 @@ In this table, we will be showing the different countries and reason of visit an
 |Switzerland | Climate         | 1month    |
 -----
 # PITHY QUOTES
->“I have only made this letter longer because I have not had the time to make it shorter." - ***Blaise Pascal***
+>“I have only made this letter longer because I have not had the time to make it shorter." - ***Blaise Pascal*** <br>
 >“The best kind of praise is intelligent praise.” - ***Rachel Heffington*** 
+# CODE FENCING
+```
+<html>
+<head>
+<title> My S.Id</title>
+</head>
+<body>
+<center><font color="red"> S561750</font></center>
+</body>
+</html>
+
+```
