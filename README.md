@@ -25,7 +25,7 @@ In this table, we will be showing the different countries and reason of visit an
 |---------   | ----------------| ----------|
 | India      | Culture         | 2months   |
 | US         | Money           | 2months   |
-| UK         | Turism          | 1month    |
+| UK         | Tourism         | 1month    |
 |Switzerland | Climate         | 1month    |
 -----
 # PITHY QUOTES
