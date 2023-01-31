@@ -32,6 +32,9 @@ In this table, we will be showing the different countries and reason of visit an
 >“I have only made this letter longer because I have not had the time to make it shorter." - ***Blaise Pascal*** <br>
 >“The best kind of praise is intelligent praise.” - ***Rachel Heffington*** 
 # CODE FENCING
+>How to create a Minimal, Reproducible Example?
+Lets go to the link
+[Click Here](https://stackoverflow.com/help/minimal-reproducible-example)
 ```
 <html>
 <head>
@@ -43,3 +46,5 @@ In this table, we will be showing the different countries and reason of visit an
 </html>
 
 ```
+Lets go to the link
+[Please](https://css-tricks.com/snippets/html)
