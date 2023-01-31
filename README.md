@@ -24,7 +24,7 @@ In this table, we will be showing the different countries and reason of visit an
 | Country    | Reason for Visit| No of Days|
 |---------   | ----------------| ----------|
 | India      | Culture         | 2months   |
-| US         | Money           | 2months   |
+| US         | Freedom         | 2months   |
 | UK         | Tourism         | 1month    |
 |Switzerland | Climate         | 1month    |
 -----
